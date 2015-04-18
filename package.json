@@ -7,9 +7,9 @@
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "dependencies": {
-    "coffee-script": "~1.7.1",
-    "opencv": "~0.5.0",
-    "event-stream": "~3.1.1"
+    "coffee-script": "^1.9.2",
+    "event-stream": "^3.3.0",
+    "opencv": "^3.0.0"
   },
   "devDependencies": {
     "mocha": "*",
